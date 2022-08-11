@@ -1,0 +1,21 @@
+#relatorio {
+    visibility: hidden;
+    display: none;
+}
+
+.exportar-btn, .exportar-btn-loading{
+    width: 450px;
+    height: 50px;
+    margin-left: 82px;
+}
+
+.exportar-btn-loading{
+    background-color: #52635e;
+    cursor:progress;
+}
+
+.exportar-btn:hover{
+    background-color: #0A775A;
+}
+
+
